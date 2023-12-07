@@ -1,0 +1,86 @@
+{
+  "crab_f": {
+    "height": 29,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 111,
+    "y": 0
+  },
+  "crab_f_dirty": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 0,
+    "y": 0
+  },
+  "crab_g": {
+    "height": 29,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 74,
+    "y": 30
+  },
+  "crab_g_dirty": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 37,
+    "y": 0
+  },
+  "crab_n": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 0,
+    "y": 30
+  },
+  "crab_n_dirty": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 37,
+    "y": 30
+  },
+  "crab_p": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 0,
+    "y": 60
+  },
+  "crab_p_dirty": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 37,
+    "y": 60
+  },
+  "crab_sm": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 0,
+    "y": 90
+  },
+  "crab_sm_dirty": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 37,
+    "y": 90
+  },
+  "crab_u": {
+    "height": 29,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 111,
+    "y": 30
+  },
+  "crab_u_dirty": {
+    "height": 30,
+    "pixelRatio": 1,
+    "width": 37,
+    "x": 74,
+    "y": 0
+  }
+}
